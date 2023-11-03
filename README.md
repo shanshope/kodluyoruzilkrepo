@@ -8,3 +8,5 @@ D
 eneme devam ediyor değişiklik yapıldı.
 
 [handansertceatasoy] (http://google.com)
+
+![Kodluyoruz Front-End] (https://images.app.goo.gl/godRPPmZQyvqE4DJA)
