@@ -4,9 +4,10 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 ## Deneme çalışması
 Kodlama öğreniyorum. 
 Front-End eğitimi 1.ödevim.
-D
-eneme devam ediyor değişiklik yapıldı.
+Deneme devam ediyor değişiklik yapıldı.
 
-[handansertceatasoy] (http://google.com)
+[handansertceatasoy] (https://github.com/shanshope/kodluyoruzilkrepo.git)
+
 
 ![Kodluyoruz Front-End] (https://images.app.goo.gl/godRPPmZQyvqE4DJA)
+
